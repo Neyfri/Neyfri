@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam0zeW1mN2w4bXFzb3FmbnNpcGQ1aXJvdG5jOWllbGE4MGdobmZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)](https://neyfri.github.io/CVNeyfri.github.io/)
 <h1 align="center">Hola 👋, Yo Soy Neyfri Del Orbe</h1>
 <h3 align="center">Soy un desarrollador en python, C#(c Sharp) y móvil. Me gusta crear aplicaciones web, de escritorio y para dispositivos móviles. Me apasiona el desarrollo de software y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.</h3>
-<img align="right" alt="Programando" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="Programando" width="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyfri&label=Profile%20views&color=0e75b6&style=flat" alt="neyfri" /> </p>
 
