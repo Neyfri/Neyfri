@@ -9,15 +9,15 @@
 
 - 🌱 Actualmente Estoy Aprendiendo **Python y Flutter**
 
-- 🤝 Saludos ** de mi parte continua**
+- 🤝 Muchas gracias **Y Bendiciones**
 
 - 👨‍💻 Algunos mis projectos estan disponibles aquí en Github [https://github.com/Neyfri?tab=repositories](https://github.com/Neyfri?tab=repositories)
 
-- 💬 Pregúntame Sobre **Tecnología IT**
+- 💬 Pregúntame Sobre **Programación y desarrollo de software**
 
 - 📫 Como Contactarme **neyfriofficial@gmail.com**
 
-- 📄 AQUI un ejemplo de mi CV [https://neyfri.github.io/CVNeyfri.github.io/](https://neyfri.github.io/CVNeyfri.github.io/)
+- 📄 Descarga mi Cv aquí [https://neyfri.github.io/CVNeyfri.github.io/](https://neyfri.github.io/CVNeyfri.github.io/)
 
 - ⚡ Me divierte **Aprender nuevas tecnologias y pasarla bien**
 
