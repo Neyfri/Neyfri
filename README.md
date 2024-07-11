@@ -1,15 +1,15 @@
 [![MasterHead](https://github.com/Neyfri/CVNeyfri.github.io/blob/main/BgSite.png)](https://neyfri.github.io/CVNeyfri.github.io/)
 <h1 align="center">Hola 👋, mi nombre es Neyfri Del Orbe</h1>
-<h3 align="center">Soy desarrollador de software desde hace más de dos años.</h3>
+<h3 align="center">Soy desarrollador de software ya desde varios años.</h3>
 <img align="right" alt="Programando" width="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyfri&label=Profile%20views&color=0e75b6&style=flat" alt="neyfri" /> </p>
 
-- 🔭 Tengo experiencia personal en varios proyectos y programas que he realizado **Sigo estudiando**
+- 🔭 Tengo experiencia en varios proyectos personales y de grupos **Sigo Aprendiendo**
 
-- 🌱 Actualmente Estoy Aprendiendo **Python y Flutter**
+- 🌱 Actualmente Estoy Aprendiendo **Software Testing**
 
-- 🤝 Muchas gracias **Y Bendiciones**
+- 🤝 Muchas gracias **Por su visita**
 
 - 👨‍💻 Algunos mis projectos estan disponibles aquí en Github [https://github.com/Neyfri?tab=repositories](https://github.com/Neyfri?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 - 📄 Descarga mi Cv aquí [https://neyfri.github.io/CVNeyfri.github.io/](https://neyfri.github.io/CVNeyfri.github.io/)
 
-- ⚡ Me divierte **Aprender nuevas tecnologias y pasarla bien**
+- ⚡ Me divierte **Aprender nuevas tecnologias y descubrir las ultimas tendencias**
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
