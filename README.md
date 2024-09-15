@@ -1,25 +1,22 @@
 [![MasterHead](https://github.com/Neyfri/CVNeyfri.github.io/blob/main/BgSite.png)](https://neyfri.github.io/CVNeyfri.github.io/)
 <h1 align="center">Hola 👋, mi nombre es Neyfri Del Orbe</h1>
-<h3 align="center">Soy desarrollador de software ya desde varios años.</h3>
-<img align="right" alt="Programando" width="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<h3 align="center">Soy desarrollador de software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyfri&label=Profile%20views&color=0e75b6&style=flat" alt="neyfri" /> </p>
 
-- 🔭 Tengo experiencia en varios proyectos personales y de grupos **Sigo Aprendiendo**
+- 🔭 Tengo varios proyectos personales **Aquí más abajo puedes ver algunos de los que he subido**
 
-- 🌱 Actualmente Estoy Aprendiendo **Software Testing**
-
-- 🤝 Muchas gracias **Por su visita**
+- 🌱 Actualmente Estoy Aprendiendo **Muchas cosas**
 
 - 👨‍💻 Algunos mis projectos estan disponibles aquí en Github [https://github.com/Neyfri?tab=repositories](https://github.com/Neyfri?tab=repositories)
 
-- 💬 Pregúntame Sobre **Programación y desarrollo de software**
+- 💬 Pregúntame Sobre **Programación, negocios e ideas interesantes**
 
-- 📫 Como Contactarme **neyfriofficial@gmail.com**
-
-- 📄 Descarga mi Cv aquí [https://neyfri.github.io/CVNeyfri.github.io/](https://neyfri.github.io/CVNeyfri.github.io/)
+- 📫 Como Contactarme **Escribeme a mi correo electronico o en mis redes sociales**
 
 - ⚡ Me divierte **Aprender nuevas tecnologias y descubrir las ultimas tendencias**
+
+- 🤝 Que tengo un feliz resto del dia
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
