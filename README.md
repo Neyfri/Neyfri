@@ -1,22 +1,20 @@
 [![MasterHead](https://github.com/Neyfri/CVNeyfri.github.io/blob/main/BgSite.png)](https://neyfri.github.io/CVNeyfri.github.io/)
 <h1 align="center">Hola 👋, mi nombre es Neyfri Del Orbe</h1>
-<h3 align="center">Soy desarrollador de software.</h3>
+<h3 align="center">Soy Programador, Desarrollador etc..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyfri&label=Profile%20views&color=0e75b6&style=flat" alt="neyfri" /> </p>
 
-- 🔭 Tengo varios proyectos personales **Aquí más abajo puedes ver algunos de los que he subido**
+- 🔭 Tengo varios años de experiencia trabajando y asistiendo proyectos personales y colaborativos **Aquí mismo más abajo puedes ver algunos mis repos personales**
 
-- 🌱 Actualmente Estoy Aprendiendo **Muchas cosas**
-
-- 👨‍💻 Algunos mis projectos estan disponibles aquí en Github [https://github.com/Neyfri?tab=repositories](https://github.com/Neyfri?tab=repositories)
+- 🌱 Actualmente Estoy Aprendiendo **Desarrollo Web**
 
 - 💬 Pregúntame Sobre **Programación, negocios e ideas interesantes**
 
-- 📫 Como Contactarme **Escribeme a mi correo electronico o en mis redes sociales**
+- 📫 Contactarme **Escribeme a mi correo electronico o en mis redes sociales**
 
-- ⚡ Me divierte **Aprender nuevas tecnologias y descubrir las ultimas tendencias**
+- ⚡ Me divierte **Compartir conocimientos y aprende cosas de la **
 
-- 🤝 Que tengo un feliz resto del dia
+- 🤝 Buen dia
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
