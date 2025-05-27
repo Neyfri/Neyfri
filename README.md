@@ -12,8 +12,6 @@
 
 - 📫 Contactarme **Escribeme a mi correo electronico o en mis redes sociales**
 
-- ⚡ Me divierte **Compartir conocimientos y aprende cosas de la **
-
 - 🤝 Buen dia
 
 <h3 align="left">Contactame en:</h3>
