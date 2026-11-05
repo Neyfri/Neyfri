@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Neyfri/CVNeyfri.github.io/blob/main/BgSite.png)](https://neyfri.github.io/CVNeyfri.github.io/)
 <h1 align="center">Hola 👋, mi nombre es Neyfri Del Orbe</h1>
-<h3 align="center">Soy Programador, Desarrollador etc..</h3>
+<h3 align="center">Desarrolladorweb</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyfri&label=Profile%20views&color=0e75b6&style=flat" alt="neyfri" /> </p>
 
